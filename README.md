@@ -1,3 +1,5 @@
+# Kian Maher
+--
 Q1 : 1 - Within a Github action that runs whenever code is pushed because it makes it easier to maintain the code and fix errors by limiting human error and having working shared branches.
 --
 Q2 : No, way too slow.
